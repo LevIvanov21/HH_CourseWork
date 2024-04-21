@@ -1,0 +1,794 @@
+[
+    {
+        "vacancy_title": "Повар универсал",
+        "city": "Ташкент",
+        "salary_from": 7000000,
+        "salary_to": 10000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96889815"
+    },
+    {
+        "vacancy_title": "В новый филиал ''Мясной Steakhouse\" в Tashkentcity требуются Повара",
+        "city": "Ташкент",
+        "salary_from": 6000000,
+        "salary_to": 9000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95547162"
+    },
+    {
+        "vacancy_title": "Официант",
+        "city": "Ташкент",
+        "salary_from": 6000000,
+        "salary_to": 12000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95986407"
+    },
+    {
+        "vacancy_title": "Кассир Sushi-Market",
+        "city": "Ташкент",
+        "salary_from": 4000000,
+        "salary_to": 6000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97104850"
+    },
+    {
+        "vacancy_title": "Бренд-шеф-повар сети ресторанов",
+        "city": "Алматы",
+        "salary_from": 1200000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95889388"
+    },
+    {
+        "vacancy_title": "Шеф-повар",
+        "city": "Алматы",
+        "salary_from": 1000000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97087207"
+    },
+    {
+        "vacancy_title": "Шеф-повар",
+        "city": "Алматы",
+        "salary_from": 500000,
+        "salary_to": 800000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97113343"
+    },
+    {
+        "vacancy_title": "Повар-кондитер",
+        "city": "Алматы",
+        "salary_from": 400000,
+        "salary_to": 500000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97408050"
+    },
+    {
+        "vacancy_title": "Персональный ассистент фаундера компании",
+        "city": "Москва",
+        "salary_from": 400000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97111249"
+    },
+    {
+        "vacancy_title": "Повар-универсал",
+        "city": "Астана",
+        "salary_from": 400000,
+        "salary_to": 400000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97052307"
+    },
+    {
+        "vacancy_title": "Персональный повар",
+        "city": "Москва",
+        "salary_from": 360000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97084215"
+    },
+    {
+        "vacancy_title": "Повар горячего цеха ПН-ПТ с 7:00 до 17:00",
+        "city": "Астана",
+        "salary_from": 330000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97216206"
+    },
+    {
+        "vacancy_title": "Повар универсал в сеть кафе \"Мармарис\"",
+        "city": "Алматы",
+        "salary_from": 300000,
+        "salary_to": 330000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97401758"
+    },
+    {
+        "vacancy_title": "Управляющий в частную загородную резиденцию в Конаково (Тверская область)",
+        "city": "Москва",
+        "salary_from": 250000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96764388"
+    },
+    {
+        "vacancy_title": "Кассир общепита",
+        "city": "Павлодар",
+        "salary_from": 250000,
+        "salary_to": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97231571"
+    },
+    {
+        "vacancy_title": "Управляющий в частную загородную резиденцию в Конаково (Тверская область)",
+        "city": "Тверь",
+        "salary_from": 250000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96764389"
+    },
+    {
+        "vacancy_title": "Видеограф-Фотограф в Navat Group",
+        "city": "Алматы",
+        "salary_from": 250000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97200501"
+    },
+    {
+        "vacancy_title": "Домработник / домработница в загородный дом",
+        "city": "Москва",
+        "salary_from": 240000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97494850"
+    },
+    {
+        "vacancy_title": "Личный повар на вахту",
+        "city": "Москва",
+        "salary_from": 210000,
+        "salary_to": 315000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95335503"
+    },
+    {
+        "vacancy_title": "Повар-универсал",
+        "city": "Москва",
+        "salary_from": 200000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97495595"
+    },
+    {
+        "vacancy_title": "Помощники по хозяйству/семейная пара",
+        "city": "Москва",
+        "salary_from": 200000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97268843"
+    },
+    {
+        "vacancy_title": "Сомелье",
+        "city": "Москва",
+        "salary_from": 200000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97300949"
+    },
+    {
+        "vacancy_title": "Повар в семью",
+        "city": "Москва",
+        "salary_from": 200000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97226515"
+    },
+    {
+        "vacancy_title": "Шеф-повар",
+        "city": "Москва",
+        "salary_from": 200000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97410134"
+    },
+    {
+        "vacancy_title": "Шеф повар",
+        "city": "Казань",
+        "salary_from": 190000,
+        "salary_to": 220000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97402718"
+    },
+    {
+        "vacancy_title": "Шеф повар",
+        "city": "Ростов-на-Дону",
+        "salary_from": 190000,
+        "salary_to": 220000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97402716"
+    },
+    {
+        "vacancy_title": "Шеф повар",
+        "city": "Краснодар",
+        "salary_from": 190000,
+        "salary_to": 220000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97356664"
+    },
+    {
+        "vacancy_title": "Старшая горничная",
+        "city": "Москва",
+        "salary_from": 180000,
+        "salary_to": 200000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97209816"
+    },
+    {
+        "vacancy_title": "Управляющий загородным домом",
+        "city": "Санкт-Петербург",
+        "salary_from": 180000,
+        "salary_to": 190000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96586693"
+    },
+    {
+        "vacancy_title": "Шеф-повар",
+        "city": "Москва",
+        "salary_from": 150000,
+        "salary_to": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97431745"
+    },
+    {
+        "vacancy_title": "Повар в семью",
+        "city": "Москва",
+        "salary_from": 150000,
+        "salary_to": 200000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96988159"
+    },
+    {
+        "vacancy_title": "Шеф-повар ресторана",
+        "city": "Новосибирск",
+        "salary_from": 150000,
+        "salary_to": 220000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97234606"
+    },
+    {
+        "vacancy_title": "Шеф-повар в ресторанный проект Ginza Project",
+        "city": "Санкт-Петербург",
+        "salary_from": 150000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97157555"
+    },
+    {
+        "vacancy_title": "Горничная в загородный дом",
+        "city": "Москва",
+        "salary_from": 140000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97496685"
+    },
+    {
+        "vacancy_title": "Шеф-повар (военное питание)",
+        "city": "Москва",
+        "salary_from": 137000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97107145"
+    },
+    {
+        "vacancy_title": "Повар судовой",
+        "city": "Санкт-Петербург",
+        "salary_from": 131400,
+        "salary_to": 131400,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97351025"
+    },
+    {
+        "vacancy_title": "Шеф-повар",
+        "city": "Санкт-Петербург",
+        "salary_from": 130000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97423678"
+    },
+    {
+        "vacancy_title": "Повар-универсал",
+        "city": "Москва",
+        "salary_from": 126000,
+        "salary_to": 150000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/94620555"
+    },
+    {
+        "vacancy_title": "Менеджер ресторана Padron",
+        "city": "Москва",
+        "salary_from": 125000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97367373"
+    },
+    {
+        "vacancy_title": "Шеф-повар",
+        "city": "Москва",
+        "salary_from": 120000,
+        "salary_to": 150000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97420784"
+    },
+    {
+        "vacancy_title": "Шеф-повар",
+        "city": "Санкт-Петербург",
+        "salary_from": 120000,
+        "salary_to": 140000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97257130"
+    },
+    {
+        "vacancy_title": "Шеф-повар",
+        "city": "Санкт-Петербург",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97191194"
+    },
+    {
+        "vacancy_title": "Домработница/Домработник",
+        "city": "Москва",
+        "salary_from": 120000,
+        "salary_to": 150000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97046247"
+    },
+    {
+        "vacancy_title": "Менеджер по учету склада / Оператор WMS",
+        "city": "Москва",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97080810"
+    },
+    {
+        "vacancy_title": "Менеджер в ресторанную группу Fresa'S Group",
+        "city": "Санкт-Петербург",
+        "salary_from": 110000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95685448"
+    },
+    {
+        "vacancy_title": "Домработница/Домработник",
+        "city": "Москва",
+        "salary_from": 110000,
+        "salary_to": 150000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95784644"
+    },
+    {
+        "vacancy_title": "Повар (Метро Кропоткинская)",
+        "city": "Москва",
+        "salary_from": 108000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97235739"
+    },
+    {
+        "vacancy_title": "Шеф-повар",
+        "city": "Санкт-Петербург",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95906834"
+    },
+    {
+        "vacancy_title": "Ночной повар",
+        "city": "Санкт-Петербург",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96275610"
+    },
+    {
+        "vacancy_title": "Повар-сушист",
+        "city": "Москва",
+        "salary_from": 100000,
+        "salary_to": 100000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97149580"
+    },
+    {
+        "vacancy_title": "Повар ресторан НОВИКОВ ГРУПП",
+        "city": "Москва",
+        "salary_from": 100000,
+        "salary_to": 105000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97233245"
+    },
+    {
+        "vacancy_title": "Изготовитель полуфабрикатов (мясное производство) м. Ховрино",
+        "city": "Москва",
+        "salary_from": 96000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97252617"
+    },
+    {
+        "vacancy_title": "Повар в ресторан",
+        "city": "Москва",
+        "salary_from": 90000,
+        "salary_to": 110000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95277776"
+    },
+    {
+        "vacancy_title": "Повар-сушист",
+        "city": "Москва",
+        "salary_from": 90000,
+        "salary_to": 120000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97206098"
+    },
+    {
+        "vacancy_title": "Повар-Горки 10 (частичка)",
+        "city": "Москва",
+        "salary_from": 85000,
+        "salary_to": 110000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97437733"
+    },
+    {
+        "vacancy_title": "Повар в лобби-бар",
+        "city": "Москва",
+        "salary_from": 84000,
+        "salary_to": 99000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95546404"
+    },
+    {
+        "vacancy_title": "Продавец-кассир (м.Тверская)",
+        "city": "Москва",
+        "salary_from": 80000,
+        "salary_to": 95000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/90556098"
+    },
+    {
+        "vacancy_title": "Повар горячего цеха и повар холодного цеха",
+        "city": "Санкт-Петербург",
+        "salary_from": 80000,
+        "salary_to": 85000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97324061"
+    },
+    {
+        "vacancy_title": "Повар в семью",
+        "city": "Санкт-Петербург",
+        "salary_from": 80000,
+        "salary_to": 150000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96270318"
+    },
+    {
+        "vacancy_title": "Повар горячего цеха",
+        "city": "Москва",
+        "salary_from": 79000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91412063"
+    },
+    {
+        "vacancy_title": "Повар в HOLI yoga & cafe",
+        "city": "Москва",
+        "salary_from": 75000,
+        "salary_to": 100000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95535899"
+    },
+    {
+        "vacancy_title": "Повар",
+        "city": "Москва",
+        "salary_from": 75000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/90214541"
+    },
+    {
+        "vacancy_title": "Повар горячего цеха",
+        "city": "Москва",
+        "salary_from": 74000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95455644"
+    },
+    {
+        "vacancy_title": "Повар в Горячий цех",
+        "city": "Санкт-Петербург",
+        "salary_from": 72000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97310515"
+    },
+    {
+        "vacancy_title": "Хостес (гест-менеджер) ресторана Padron",
+        "city": "Москва",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97367678"
+    },
+    {
+        "vacancy_title": "Повар-пекарь в сеть магазинов здорового питания",
+        "city": "Москва",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97279424"
+    },
+    {
+        "vacancy_title": "Повар",
+        "city": "Москва",
+        "salary_from": 60000,
+        "salary_to": 85000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96180910"
+    },
+    {
+        "vacancy_title": "Чат-менеджер",
+        "city": "Казань",
+        "salary_from": 50000,
+        "salary_to": 75000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97433807"
+    },
+    {
+        "vacancy_title": "Бухгалтер на первичную документацию",
+        "city": "Уфа",
+        "salary_from": 50000,
+        "salary_to": 50000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97390478"
+    },
+    {
+        "vacancy_title": "Повар (Правый и Левый берег)",
+        "city": "Новосибирск",
+        "salary_from": 50000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95499206"
+    },
+    {
+        "vacancy_title": "Администратор",
+        "city": "Пушкино (Московская область)",
+        "salary_from": 45000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97158902"
+    },
+    {
+        "vacancy_title": "Администратор",
+        "city": "Королев",
+        "salary_from": 45000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97158903"
+    },
+    {
+        "vacancy_title": "Онлайн-администратор (без продаж / без поиска)",
+        "city": "Казань",
+        "salary_from": 40000,
+        "salary_to": 50000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96749227"
+    },
+    {
+        "vacancy_title": "Младший event-менеджер",
+        "city": "Москва",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/95568838"
+    },
+    {
+        "vacancy_title": "Продавец правильного питания во всех районах города",
+        "city": "Санкт-Петербург",
+        "salary_from": 38137,
+        "salary_to": 50850,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/87408022"
+    },
+    {
+        "vacancy_title": "Повар универсал",
+        "city": "Москва",
+        "salary_from": 5000,
+        "salary_to": 5000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97421086"
+    },
+    {
+        "vacancy_title": "Повар-универсал(вызывной) в ЦМТ",
+        "city": "Москва",
+        "salary_from": 5000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97301246"
+    },
+    {
+        "vacancy_title": "Personal Assistant to Family Office (to Cyprus)",
+        "city": "Москва",
+        "salary_from": 4500,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97326772"
+    },
+    {
+        "vacancy_title": "Повар (подработка)",
+        "city": "Санкт-Петербург",
+        "salary_from": 4000,
+        "salary_to": null,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/97106060"
+    },
+    {
+        "vacancy_title": "Шеф-повар",
+        "city": "Минск",
+        "salary_from": 4000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96921779"
+    },
+    {
+        "vacancy_title": "Administrative Assistant (Junior)",
+        "city": "Кипр",
+        "salary_from": 2000,
+        "salary_to": 4000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97174931"
+    },
+    {
+        "vacancy_title": "Повар",
+        "city": "Минск",
+        "salary_from": 1800,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96433699"
+    },
+    {
+        "vacancy_title": "Повар",
+        "city": "Могилев",
+        "salary_from": 1100,
+        "salary_to": 1500,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96269181"
+    },
+    {
+        "vacancy_title": "Горничная в Посольство Республики Корея",
+        "city": "Москва",
+        "salary_from": 1100,
+        "salary_to": 1100,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96992467"
+    },
+    {
+        "vacancy_title": "Ип Турова В И",
+        "city": "Бобруйск",
+        "salary_from": 1000,
+        "salary_to": 1200,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97239723"
+    },
+    {
+        "vacancy_title": "Шеф-повар",
+        "city": "Алматы",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97441000"
+    },
+    {
+        "vacancy_title": "Повар на яхту в Италии",
+        "city": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97400737"
+    },
+    {
+        "vacancy_title": "Повар в семью",
+        "city": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97395180"
+    },
+    {
+        "vacancy_title": "Sales Manager HoReCa",
+        "city": "Астана",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95525422"
+    },
+    {
+        "vacancy_title": "Фитнес-тренер / повар",
+        "city": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/96932597"
+    },
+    {
+        "vacancy_title": "Повар в семью",
+        "city": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97333559"
+    },
+    {
+        "vacancy_title": "Повар горячего цеха и фастфуда",
+        "city": "Алматы",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/95831729"
+    },
+    {
+        "vacancy_title": "Администратор Летнего Кафе и Бассейного комплекса",
+        "city": "Алматы",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97339215"
+    },
+    {
+        "vacancy_title": "2D Artist",
+        "city": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97355203"
+    },
+    {
+        "vacancy_title": "Frontend разработчик в команду сервиса Мой Повар",
+        "city": "Тюмень",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/96385855"
+    },
+    {
+        "vacancy_title": "Шеф-повар",
+        "city": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97430098"
+    },
+    {
+        "vacancy_title": "Бармен-кассир",
+        "city": "Санкт-Петербург",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97161504"
+    },
+    {
+        "vacancy_title": "Оператор-монтажер",
+        "city": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/97402811"
+    },
+    {
+        "vacancy_title": "Хостес в ресторан \"Карл и Фридрих\"",
+        "city": "Санкт-Петербург",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/87915862"
+    }
+]
